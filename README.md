@@ -19,3 +19,4 @@ To complete this test you need to modify the file 'class-theme-utils.php' so tha
     * You must use the text returned by the method **get_theme_version()** inside the file 'class-theme-utils.php' in order to get the current theme version
 
 ### Have fun :sunglasses:# wp-theme-test-clovis
+# wp-theme-test-clovis
